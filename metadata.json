@@ -1,0 +1,8 @@
+{
+  "name": "TileMaster POS",
+  "description": "A comprehensive Windows/Web Hybrid POS System for Tile & Sanitary shops with Inventory, Accounts, and Supplier management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
